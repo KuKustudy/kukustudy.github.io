@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "How to create backup dump file for supabase database"
+title:  "Cook for work or being cooked for work"
 date:   2026-08-09 21:00:00 +1000
 categories: update blog
 ---
 
-### Cook for work or being cooked for work
-
-**Cook For Work**
+### Cook For Work
 
 Like every healthy & broke adult, I been trying to cook and bring lunch to work to save money. Chef is cheffing:
 
@@ -22,7 +20,7 @@ Like every healthy & broke adult, I been trying to cook and bring lunch to work 
 
 I am not bad at it at all. 😎
 
-**Feeling Cooked From Work**
+### Feeling Cooked From Work
 
 Life has been bit stressful at work, I been setting up a very high standard for myself, I will not lower it in any life but it definitely gave myself a lot of pressure that I don't deserve. Got to remind myself that work is part of my life, not all of it.
 
