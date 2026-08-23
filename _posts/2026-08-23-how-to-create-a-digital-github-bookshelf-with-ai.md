@@ -25,7 +25,7 @@ Check out my [digital notebook website](https://kukustudy.github.io/my-digital-n
 
 First, I made sure all my scanned notebooks were stored in one GitHub repository.
 
-The collection covers **2016–2025**, including high school and university notes. I try to name them in certain patterns to keep things organised.
+The collection covers **2017–2025**, including high school and university notes. I try to name them in certain patterns to keep things organised.
 
 I used the iPhone's native Files app to do all the scanning.
 
