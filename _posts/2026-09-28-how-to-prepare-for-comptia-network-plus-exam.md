@@ -27,7 +27,7 @@ I also kept taking my own notes while watching the videos. Making your own notes
 <details>
   <summary>Click to view study schedule</summary>
   <figure>
-    <img src="/assets/images/comptia_network_plus_study_schedule.jpg" width="300">
+    <img src="/assets/images/comptia_network_plus_study_schedule.jpg" width="800">
     <figcaption>CompTia Network+ Study Schedule</figcaption>
   </figure>
 </details>
@@ -35,7 +35,7 @@ I also kept taking my own notes while watching the videos. Making your own notes
 <details>
   <summary>Click to view study note</summary>
   <figure>
-    <img src="/assets/images/comptia_onenote_note.jpg" width="300">
+    <img src="/assets/images/comptia_onenote_note.jpg" width="800">
     <figcaption>CompTia Network+ Study Note</figcaption>
   </figure>
 </details>
