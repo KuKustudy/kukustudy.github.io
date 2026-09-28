@@ -71,8 +71,11 @@ There are a few things that I think are important when preparing for this exam:
 ### 4. On The Day Of The Exam
 
 They are something I always do on the day of an exam:
+
 •	Do a set of new questions one or two hours before the exam.
+
 •	Do a set of questions that I have done before one or two hours before the exam.
+
 •	Be there 30 minutes early. Give yourself some extra time to check out the room. It never hurts to make yourself more comfortable in a new environment.
 
 
