@@ -10,7 +10,7 @@ categories: update blog
 
 ---
 
-Life status update.
+Hey, life status update.
 
 ### Hacks 🎤
 
