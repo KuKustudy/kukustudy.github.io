@@ -26,10 +26,8 @@ I think this is such a great thing to do. It makes me wonder what other little t
 
 Most of the days we let the "work" interrupt us and pays all of our attentions to it, sometimes we need to let the world interrupts us.
 
-<figure>
-<img src="/assets/images/nature-journaling-drawing.jpg" width="600">
-<figcaption>drawing piece</figcaption>
-</figure>
+- Nature Journaling
+    ![drawingpiece](/assets/images/nature-journaling-drawing.jpg)
 
 ### HO HO HO 🎄
 
@@ -40,10 +38,9 @@ The company I work for officially put up the Christmas tree last Friday! Lowkey 
 To get work out of my mind, going to a handcraft market was a successful attempt! Melbourne has so many markets that I feel like I miss at least 100 of them every year, but this time, I caught one just in time.
 
 There was just so much cute stuff!!! I bought some things to decorate my bags hehe.
-<figure>
-<img src="/assets/images/bag-decoration.jpg" width="600">
-<figcaption>bag decoration</figcaption>
-</figure>
+
+- Bag decorations
+    ![bagdecoration](/assets/images/bag-decoration.jpg)
 
 ### Bell Rings for Next Year
 
@@ -53,4 +50,5 @@ I've met a lot of new people on this new journey, and I'm grateful for so many o
 
 I also have a big surgery coming up in early December, and I'm trying my best to prepare for it. I hope everything is going to be fine, just like I always know it always will be.
 
-- Written at Passages Cafe, Melbourne. Ordered an iced mocha. Outside, little rain drops fall but not at all rainy, the air is humid and warm.
+⭐ © 2026 Wingyee | Written at Passages Cafe, Melbourne. Ordered an iced mocha. Outside, little raindrops are falling,
+but it's not quite rainy. The air is humid and warm.
