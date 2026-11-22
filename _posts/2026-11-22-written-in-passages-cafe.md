@@ -42,7 +42,7 @@ To get work out of my mind, going to a handcraft market was a successful attempt
 There was just so much cute stuff!!! I bought some things to decorate my bags hehe.
 <figure>
 <img src="/assets/images/bag-decoration.jpg" width="600">
-<figcaption>drawing piece</figcaption>
+<figcaption>bag decoration</figcaption>
 </figure>
 
 ### Bell Rings for Next Year
